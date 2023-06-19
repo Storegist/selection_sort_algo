@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntumaster/Documents/test/selection_sort_algo/constants.h
+
+/home/ubuntumaster/Documents/test/selection_sort_algo/main.cpp
+iostream
+-
+constants.h
+/home/ubuntumaster/Documents/test/selection_sort_algo/constants.h
+selectionsort.cpp
+/home/ubuntumaster/Documents/test/selection_sort_algo/selectionsort.cpp
+printarray.cpp
+/home/ubuntumaster/Documents/test/selection_sort_algo/printarray.cpp
+
+/home/ubuntumaster/Documents/test/selection_sort_algo/printarray.cpp
+iostream
+-
+constants.h
+/home/ubuntumaster/Documents/test/selection_sort_algo/constants.h
+
+/home/ubuntumaster/Documents/test/selection_sort_algo/selectionsort.cpp
+iostream
+-
+constants.h
+/home/ubuntumaster/Documents/test/selection_sort_algo/constants.h
+

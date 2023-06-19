@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ubuntumaster/Documents/test/selection_sort_algo/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/selection_sort_algo.dir/main.cpp.o -c /home/ubuntumaster/Documents/test/selection_sort_algo/main.cpp",
+  "file": "/home/ubuntumaster/Documents/test/selection_sort_algo/main.cpp"
+}
+]

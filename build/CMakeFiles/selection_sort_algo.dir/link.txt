@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/selection_sort_algo.dir/main.cpp.o  -o selection_sort_algo 
